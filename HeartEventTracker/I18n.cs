@@ -59,6 +59,18 @@ namespace HeartEventTracker
             return I18n.GetByKey("edge-cases.very-long-text");
         }
 
+        /// <summary>Get a translation equivalent to "Enter Pierre's shop when she is there (except Saturdays).".</summary>
+        public static string Abigail_2HeartsHint()
+        {
+            return I18n.GetByKey("Abigail.2HeartsHint");
+        }
+
+        /// <summary>Get a translation equivalent to "You enter Abigail's room and watch her get angry about a videogame. She asks for your help, and you play the console version of Journey of the Prairie King together. (This is just like the arcade version in The Stardrop Saloon, except that Abigail plays a second character and actively helps you). When you finish the level, she thanks you and the cutscene ends. If you fail, however, she will still thank you for trying.".</summary>
+        public static string Abigail_2HeartsFullDesc()
+        {
+            return I18n.GetByKey("Abigail.2HeartsFullDesc");
+        }
+
 
         /*********
         ** Private methods
@@ -74,3 +86,4 @@ namespace HeartEventTracker
         }
     }
 }
+
