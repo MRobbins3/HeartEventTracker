@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<heartEvents>
+	<heartEvent type="cutscene">
+		<NPC>Abigail</NPC>
+		<heartValue>2</heartValue>
+		<eventID>1</eventID>
+		<triggerHint>Enter Pierre's shop when she is there (except Saturdays)</triggerHint>
+		<wikiDescription>You enter Abigail's room and watch her get angry about a videogame. She asks for your help, and you play the console version of Journey of the Prairie King together. (This is just like the arcade version in The Stardrop Saloon, except that Abigail plays a second character and actively helps you). When you finish the level, she thanks you and the cutscene ends. If you fail, however, she will still thank you for trying.</wikiDescription>
+	</heartEvent>
+	<heartEvent type="letter">
+		<NPC>Abigail</NPC>
+		<heartValue>8</heartValue>
+		<multiEventOrder>1</multiEventOrder>
+		<eventID>TODO</eventID>
+		<triggerHint>Check your mail after reaching 8 hearts.</triggerHint>
+		<wikiDescription>Abigail sends you a letter (signed "Abby") inviting you to visit her in her room.</wikiDescription>
+	</heartEvent>
+	<heartEvent type="cutscene">
+		<NPC>Abigail</NPC>
+		<heartValue>8</heartValue>
+		<multiEventOrder>2</multiEventOrder>
+		<eventID>3</eventID>
+		<triggerHint>After receiving a letter from Abigail, enter Pierre's General Store between 8pm and 10pm when she's there.</triggerHint>
+		<wikiDescription>When you arrive, Abigail shows you her spirit board. It reveals a message that indicates she's starting to develop feelings for you. She gets embarrassed and rushes you out of her room. Regardless of how you entered the store, you will end up outside.</wikiDescription>
+	</heartEvent>
+	<heartEvent type="cutscene">
+		<NPC>Abigail</NPC>
+		<heartValue>8</heartValue>
+		<multiEventOrder>3</multiEventOrder>
+		<eventID>TODO</eventID>
+		<triggerHint>Exit the farmhouse after seeing the 8 hearts cutscene.</triggerHint>
+		<wikiDescription>Abigail visits you and apologizes for her behavior.</wikiDescription>
+	</heartEvent>
+	
+</heartEvents>

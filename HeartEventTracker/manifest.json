@@ -1,9 +1,9 @@
 ﻿{
   "Name": "Heart Event Tracker",
-  "Author": "ZeldaButAGrl",
+  "Author": "MRobbins3",
   "Version": "1.0.0",
   "Description": "A tracker for heart events. Shows which events you've seen, and optionally tips on which are available and still to come. ",
-  "UniqueID": "ZeldaButAGrl.HeartEventTracker",
+  "UniqueID": "MRobbins3.HeartEventTracker",
   "EntryDll": "HeartEventTracker.dll",
   "MinimumApiVersion": "3.0.0",
   "UpdateKeys": []
