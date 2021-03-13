@@ -4,8 +4,8 @@
 		<NPC>Abigail</NPC>
 		<heartValue>2</heartValue>
 		<eventID>1</eventID>
-		<triggerHint>Enter Pierre's shop when she is there (except Saturdays)</triggerHint>
-		<wikiDescription>You enter Abigail's room and watch her get angry about a videogame. She asks for your help, and you play the console version of Journey of the Prairie King together. (This is just like the arcade version in The Stardrop Saloon, except that Abigail plays a second character and actively helps you). When you finish the level, she thanks you and the cutscene ends. If you fail, however, she will still thank you for trying.</wikiDescription>
+		<triggerHint>Abigail_2HeartsHint</triggerHint>
+		<wikiDescription>Abigail_2HeartsFullDesc</wikiDescription>
 	</heartEvent>
 	<heartEvent type="letter">
 		<NPC>Abigail</NPC>
