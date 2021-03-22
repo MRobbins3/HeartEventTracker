@@ -1,9 +1,9 @@
 ﻿<p>
-Heavy inspriation for this mod comes from cdaragorn's Ui-Info-Suite mod, <see href="https://github.com/cdaragorn/Ui-Info-Suite"/>
+Heavy inspriation for this mod comes from cdaragorn's [Ui-Info-Suite mod](https://github.com/cdaragorn/Ui-Info-Suite),
 which draws more accurate friendship hearts, although nothing was directly copied from there.
 </p>
 <p>
-Most of the text for hints and descriptions was taken directly from the wiki <see href="https://stardewvalleywiki.com/">. For any 
+Most of the text for hints and descriptions was taken directly from the [Stardew Valley wiki](https://stardewvalleywiki.com). For any 
 missing descriptions and hints (especially ones for letters or follow-up cutscenes), I've done my best to paraphrase.
 </p>
 <p>
