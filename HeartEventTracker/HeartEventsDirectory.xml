@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<heartEvents>
+	<heartEvent type="cutscene">
+		<NPC>Abigail</NPC>
+		<heartValue>2</heartValue>
+		<eventID>1</eventID>
+		<triggerHint>Abigail_2HeartsHint</triggerHint>
+		<wikiDescription>Abigail_2HeartsFullDesc</wikiDescription>
+	</heartEvent>
+	<heartEvent type="letter">
+		<NPC>Abigail</NPC>
+		<heartValue>8</heartValue>
+		<multiEventOrder>1</multiEventOrder>
+		<eventID>TODO</eventID>
+		<triggerHint>Abigail_8Hearts1Hint</triggerHint>
+		<wikiDescription>Abigail_8Hearts1FullDesc</wikiDescription>
+	</heartEvent>
+	<heartEvent type="cutscene">
+		<NPC>Abigail</NPC>
+		<heartValue>8</heartValue>
+		<multiEventOrder>2</multiEventOrder>
+		<eventID>3</eventID>
+		<triggerHint>Abigail_8Hearts2Hint</triggerHint>
+		<wikiDescription>Abigail_8Hearts2FullDesc</wikiDescription>
+	</heartEvent>
+	<heartEvent type="cutscene">
+		<NPC>Abigail</NPC>
+		<heartValue>8</heartValue>
+		<multiEventOrder>3</multiEventOrder>
+		<eventID>TODO</eventID>
+		<triggerHint>Abigail_8Hearts3Hint</triggerHint>
+		<wikiDescription>Abigail_8Hearts3FullDesc</wikiDescription>
+	</heartEvent>
+	
+</heartEvents>
