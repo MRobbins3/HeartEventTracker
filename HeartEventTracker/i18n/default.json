@@ -8,6 +8,10 @@
 
     "Abigail.2HeartsHint": "Enter Pierre's shop when she is there (except Saturdays).",
     "Abigail.2HeartsFullDesc": "You enter Abigail's room and watch her get angry about a videogame. She asks for your help, and you play the console version of Journey of the Prairie King together. (This is just like the arcade version in The Stardrop Saloon, except that Abigail plays a second character and actively helps you). When you finish the level, she thanks you and the cutscene ends. If you fail, however, she will still thank you for trying.",
+    "Abigail.4HeartsHint": "Visit the mountain between noon and 7pm on a rainy day, any season except Winter.",
+    "Abigail.4HeartsFullDesc": "You see Abigail playing her flute. She asks what you're doing out in the rain. Regardless of your response, she invites you to stand under the tree with her. You pull out a harp and you play a duet as the camera pans out over the lake.,",
+    "Abigail.6HeartsHint": "",
+    "Abigail.6HeartsFullDesc": "",
     "Abigail.8Hearts1Hint": "Check your mail after reaching 8 hearts.",
     "Abigail.8Hearts1FullDesc": "Abigail sends you a letter (signed \"Abby\") inviting you to visit her in her room.",
     "Abigail.8Hearts2Hint": "After receiving a letter from Abigail, enter Pierre's General Store between 8pm and 10pm when she's there.",

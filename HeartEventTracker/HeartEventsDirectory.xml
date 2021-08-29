@@ -7,6 +7,13 @@
 		<triggerHint>Abigail_2HeartsHint</triggerHint>
 		<wikiDescription>Abigail_2HeartsFullDesc</wikiDescription>
 	</heartEvent>
+	<heartEvent type="cutscene">
+		<NPC>Abigail</NPC>
+		<heartValue>4</heartValue>
+		<eventID>TODO</eventID>
+		<triggerHint>Abigail_4HeartsHint</triggerHint>
+		<wikiDescription>Abigail_4HeartsFullDesc</wikiDescription>
+	</heartEvent>
 	<heartEvent type="letter">
 		<NPC>Abigail</NPC>
 		<heartValue>8</heartValue>
