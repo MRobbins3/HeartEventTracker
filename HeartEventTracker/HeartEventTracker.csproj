@@ -92,6 +92,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Framework\controllers\FriendPage.cs" />
+    <Compile Include="Framework\Utils.cs" />
     <Compile Include="ModConfig.cs" />
     <Compile Include="I18n.cs">
       <AutoGen>True</AutoGen>
